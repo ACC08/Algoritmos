@@ -1,0 +1,6 @@
+C:\Users\ahcde\Documents\SharpDevelop Projects\Cuaderno\Blanco 1\obj\Debug\Blanco 1.csprojResolveAssemblyReference.cache
+C:\Users\ahcde\Documents\SharpDevelop Projects\Cuaderno\Blanco 1\bin\Debug\Blanco 1.exe.config
+C:\Users\ahcde\Documents\SharpDevelop Projects\Cuaderno\Blanco 1\bin\Debug\Blanco 1.exe
+C:\Users\ahcde\Documents\SharpDevelop Projects\Cuaderno\Blanco 1\bin\Debug\Blanco 1.pdb
+C:\Users\ahcde\Documents\SharpDevelop Projects\Cuaderno\Blanco 1\obj\Debug\Blanco 1.exe
+C:\Users\ahcde\Documents\SharpDevelop Projects\Cuaderno\Blanco 1\obj\Debug\Blanco 1.pdb
